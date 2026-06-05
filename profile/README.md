@@ -22,6 +22,7 @@ Our work is concentrated in three areas:
 ## Public Work
 
 - [mortar](https://github.com/sequelcore/mortar) — Java-first, refactor-safe, SQL-transparent queries for Spring and PostgreSQL.
+- [vigil](https://github.com/sequelcore/vigil) — Secure JWT authentication starter for Spring Boot, with RS256/JWKS, refresh rotation, cookie profiles, and revocation.
 - [sequel-backend-demo](https://github.com/sequelcore/sequel-backend-demo) — Public Spring Boot demo for Sequel backend libraries, starting with Mortar.
 - [kiln](https://github.com/sequelcore/kiln) — Domain-agnostic AI orchestration engine for channels, tools, LLM providers, RAG, and safety pipelines.
 - [kiln-integrations](https://github.com/sequelcore/kiln-integrations) — Official integration adapters for Kiln, including Google Calendar, Stripe, and Google Sheets.
@@ -34,6 +35,7 @@ Our work is concentrated in three areas:
 | Kilvo | Multi-channel AI agent SaaS for SMBs, built on Kiln. | In development |
 | Kiln | AI orchestration engine for building vendor-flexible agents. | Public |
 | Mortar | Query infrastructure for Java/Spring teams that want SQL visibility without stringly typed data access. | Public |
+| Vigil | JWT authentication for Spring Boot applications that need secure token lifecycle, cookies, JWKS, and revocation. | Public |
 
 ## Operating Principles
 
