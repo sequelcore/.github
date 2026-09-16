@@ -25,7 +25,6 @@ Our work is concentrated in three areas:
 - [vigil](https://github.com/sequelcore/vigil) — Secure JWT authentication starter for Spring Boot, with RS256/JWKS, refresh rotation, cookie profiles, and revocation.
 - [sequel-backend-demo](https://github.com/sequelcore/sequel-backend-demo) — Public Spring Boot demo for Sequel backend libraries, starting with Mortar.
 - [kiln](https://github.com/sequelcore/kiln) — Domain-agnostic AI orchestration engine for channels, tools, LLM providers, RAG, and safety pipelines.
-- [kiln-integrations](https://github.com/sequelcore/kiln-integrations) — Official integration adapters for Kiln, including Google Calendar, Stripe, and Google Sheets.
 
 ## Products
 
